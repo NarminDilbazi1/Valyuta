@@ -256,3 +256,4 @@ document.querySelector(".last input").addEventListener("keyup", (event) => {
         console.error("Invalid input. Please enter a valid number.");
     }
 });
+
