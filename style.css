@@ -10,7 +10,11 @@
         font-family: 'Roboto', sans-serif;
     }
     
-
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
 header {
     display: flex;
     background-color: lightgray;
