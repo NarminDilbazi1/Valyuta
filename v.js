@@ -92,7 +92,7 @@ class Calculators {
             this.right.show();
         }
         else {
-            console.error("Invalid currency (line: 82)");
+            console.error("Invalid currency");
         }
     }
 
